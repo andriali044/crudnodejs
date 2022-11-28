@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&display=swap");
+
+body {
+  /* font-family: 'Arimo', sans-serif; */
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: "Open Sans", sans-serif;
+}
+
+.signcreate_btn {
+  margin-top: 20%;
+  margin-bottom: 23px;
+  margin-left: 88px;
+  width: 80%;
+  background: #ff8c00;
+  cursor: pointer;
+  border: 1px solid #ff8c00;
+  height: 50px;
+  outline: none;
+  border-radius: 3px;
+  color: white;
+  background: linear-gradient(to bottom, #ff8c00, #ff8c00);
+}
+
+.signin_btn:hover {
+  color: white;
+}
+
+.signedit_btn {
+  margin-top: 3px;
+  margin-bottom: 23px;
+  margin-left: 88px;
+  width: 80%;
+  background: #ff8c00;
+  cursor: pointer;
+  border: 1px solid #ff8c00;
+  height: 50px;
+  outline: none;
+  border-radius: 3px;
+  color: white;
+  background: linear-gradient(to bottom, #ff8c00, #ff8c00);
+}
+.signview_btn {
+  margin-top: 3px;
+  margin-bottom: 23px;
+  margin-left: 88px;
+  width: 80%;
+  background: #ff8c00;
+  cursor: pointer;
+  border: 1px solid #ff8c00;
+  height: 50px;
+  outline: none;
+  border-radius: 3px;
+  color: white;
+  background: linear-gradient(to bottom, #ff8c00, #ff8c00);
+}

@@ -3,6 +3,7 @@ const bcrypt = require("bcryptjs")
 const {validation} = require('../middleware/validation')
 const jwt = require('jsonwebtoken')
 const dotenv = require('dotenv')
+const Joi = require('@hapi/joi');
 dotenv.config()
 
 const login = async(req, res) => {
